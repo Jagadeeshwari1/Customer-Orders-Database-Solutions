@@ -31,7 +31,7 @@ This repository contains a complete solution for a normalized SQL Server databas
 
 - **Normalization**: All tables are in 3NF, with proper use of primary and foreign keys.
 
-- **Diagram**: See [`DatabaseDiagram.png`](DatabaseDiagram.png) for logical structure, column data types, nullability, primary keys, and foreign key directions.
+- **Diagram**: See [`DatabaseDiagram.png`](DatabaseDiagram.png.pdf) for logical structure, column data types, nullability, primary keys, and foreign key directions.
 
 ---
 
